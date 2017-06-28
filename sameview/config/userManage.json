@@ -1,0 +1,39 @@
+[
+  {
+    "key": "1",
+    "userName": "admin",
+    "name": "张三",
+    "department": "组织部",
+    "tel": "15026581325",
+    "email": "m15026581325@163.com",
+    "authority": "管理员"
+  },
+  {
+    "key": "2",
+    "userName": "admin",
+    "name": "张五",
+    "department": "统战部",
+    "tel": "15026581325",
+    "email": "m15026581325@163.com",
+    "authority": "管理员"
+  },
+  {
+    "key": "3",
+    "userName": "admin",
+    "name": "张六",
+    "department": "后勤部",
+    "tel": "15026581325",
+    "email": "m15026581325@163.com",
+    "authority": "管理员"
+  },
+  {
+    "key": "4",
+    "userName": "admin",
+    "name": "张七",
+    "department": "宣传部",
+    "tel": "15026581325",
+    "email": "m15026581325@163.com",
+    "authority": "管理员"
+  }
+
+]
